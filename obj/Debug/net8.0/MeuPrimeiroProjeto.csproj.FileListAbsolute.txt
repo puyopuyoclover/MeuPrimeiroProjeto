@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.exe
+C:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.deps.json
+C:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.runtimeconfig.json
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.dll
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.pdb
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.sourcelink.json
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.dll
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\refint\MeuPrimeiroProjeto.dll
+c:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.pdb
+C:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\adri\MeuPrimeiroProjeto\obj\Debug\net8.0\ref\MeuPrimeiroProjeto.dll
